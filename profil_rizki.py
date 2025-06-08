@@ -78,14 +78,7 @@ with st.container():
             Saya menyukai dunia pemrograman dan teknologi, terbiasa bekerja rapi dan belajar mandiri.
             """
         )
-        # Tombol download CV
-with open("CV_Rizki.pdf", "rb") as file:
-    btn = st.download_button(
-        label="📥 Download CV Saya",
-        data=file,
-        file_name="CV_Rizki.pdf",
-        mime="application/pdf"
-    )
+    
 
 
 
