@@ -130,7 +130,7 @@ with st.sidebar:
 
 st.snow()
 with st.container():
-    st.markdown("<h3>Welcomee bro sist <span class='waving-hand'>👋</span></h3>", unsafe_allow_html=True)
+    st.markdown("<h3>Welcomee bro sist by ikyy <span class='waving-hand'>👋</span></h3>", unsafe_allow_html=True)
     st.title("Mahasiswa Sistem Informasi dan Pengembang Python Pemula")
     st.write("Saya adalah seorang individu yang efisien, cepat belajar, dan memiliki semangat tinggi untuk menjelajahi serta berkontribusi dalam dunia teknologi yang dinamis.")
 with st.container():
